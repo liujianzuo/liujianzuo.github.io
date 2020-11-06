@@ -1,0 +1,3 @@
+[submodule "n1"]
+	path = n1
+	url = git@github.com:liujianzuo/n1.git
